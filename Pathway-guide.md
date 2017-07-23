@@ -20,7 +20,7 @@
 ![Plate mkI](http://i.imgur.com/wqbN64R.png)
 
 ## 制作模块
-制作好纤维板之后，就需要制作一个无人机芯片，一个无人机处理器，三个
+
 After the plates, you need to craft 1 drone chip, 1 drone core, 3 drone casings, and 4 drone engines
 ![Chip](http://i.imgur.com/KmLnZU7.png)
 ![Core](http://i.imgur.com/blxsLk7.png)
@@ -47,7 +47,7 @@ To make a functional module, you first craft a module place holder
 Everything from drone parts to drone modules have 4 tiers (I, II, III, and IV). Better modules are of higher tier.  
 With those place holders, craft the modules you want. For starters I recommend always having Items Inventory module and Manual Control movement module installed.  
 
-Craft modules from the list [here](https://github.com/WilliamEz/CustomDrones/wiki/Modules)
+Craft modules from the list [here](https://github.com/nekomeowww/CustomDrones/wiki/Modules)
 
 ---
 # Installing a module
@@ -82,7 +82,7 @@ Exit the screen, look around, and see the drone following your cross-hair!!!
 ## Stop flying!
 To stop controlling drone, either press the switch buttons again, or don't hold the controller in your hand anymore.
 
-### Read [Drone controlling](https://github.com/WilliamEz/CustomDrones/wiki/Drone-controlling) to understand more about the controller and controlling drones
+### Read [Drone controlling](https://github.com/nekomeowww/CustomDrones/wiki/Drone-controlling) to understand more about the controller and controlling drones
 
 ---
 # Healing your drone
@@ -97,10 +97,10 @@ So many parameters there, but for now focus on the item slot at the middle. Put 
 
 ### You can also leave the item in the drone's inventory, the drone will consume items automatically when almost out of battery and health.
 
-Read the list of [Recovering items here](https://github.com/WilliamEz/CustomDrones/wiki/Recovering-items).  
+Read the list of [Recovering items here](https://github.com/nekomeowww/CustomDrones/wiki/Recovering-items).  
 You can also install modules by placing them into that item slot and press "Install module" (button name changes depending on item placed in slot). That's the harder way.
 
 ---
 ### Good job getting here!
 ### Now make better drones, install better modules, and be more awesome!
-### Go back to [homepage](https://github.com/WilliamEz/CustomDrones/wiki)
+### Go back to [homepage](https://github.com/nekomeowww/CustomDrones/wiki)

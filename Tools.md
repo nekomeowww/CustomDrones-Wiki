@@ -1,6 +1,6 @@
 ### Tools
-1. [Drone screw](https://github.com/WilliamEz/CustomDrones/wiki/Tools#drone-screw)
-2. [Drone painter](https://github.com/WilliamEz/CustomDrones/wiki/Tools#drone-painter)
+1. [Drone screw](https://github.com/nekomeowww/CustomDrones/wiki/Tools#drone-screw)
+2. [Drone painter](https://github.com/nekomeowww/CustomDrones/wiki/Tools#drone-painter)
 
 ---
 # Drone screw
